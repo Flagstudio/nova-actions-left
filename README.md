@@ -1,6 +1,6 @@
 # Nova actions left
 
-![Example](screenshot.png)
+![Example](https://raw.githubusercontent.com/Flagstudio/nova-actions-left/master/screenshot.png)
 
 ## Installation
 
