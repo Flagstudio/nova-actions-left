@@ -1,0 +1,29 @@
+{
+    "name": "flagstudio/nova-actions-left",
+    "description": "Laravel Nova actions on the left",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flagstudio\\NovaActionsLeft\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Flagstudio\\NovaActionsLeft\\NovaActionsLeftServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
