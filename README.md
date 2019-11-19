@@ -1,8 +1,8 @@
-#Nova actions left
+# Nova actions left
 
 ![Example](screenshot.png)
 
-##Installation
+## Installation
 
 You can install the package via composer:
 
